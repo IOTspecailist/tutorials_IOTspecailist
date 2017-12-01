@@ -1,0 +1,9 @@
+diff a/index.txt b/index.txt	(rejected hunks)
+@@ -4,5 +4,6 @@
+ 
+ this is GIT
+ dd
++
+ </body>
+ </html>
+\ No newline at end of file
